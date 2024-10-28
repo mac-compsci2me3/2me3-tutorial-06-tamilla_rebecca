@@ -1,7 +1,4 @@
 public class Drawing {
-<<<<<<< HEAD
-    
-=======
     private static Drawing instance;
 
     private Drawing() {}
@@ -27,5 +24,4 @@ public class Drawing {
                            " with color: " + shape.getColor() +
                            " and area: " + shape.calculateArea());
     }
->>>>>>> a46b4afec48db3340c9216e69124f3694df43cdf
 }
